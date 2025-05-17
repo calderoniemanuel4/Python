@@ -10,7 +10,9 @@
  _unica vez_
 
 * $ git init
-* $ git remote add [origin] [link repo] 
+* $ git remote add [origin] [link repo]  
+Para compartir mi repo
+https://github.com/calderoniemanuel4/Python.git  
 
 ## OTROS COMANDOS USADOS
 
