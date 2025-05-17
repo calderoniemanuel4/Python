@@ -3,7 +3,8 @@
 
 * $ git add .
 * $ git commit 
-* $ git push origin master : usuario: calderoniemanuel4 password: ver token.txt
+* $ git push origin master 
+    _usuario: calderoniemanuel4 password: ver token.txt_
 
 ## COMANDOS PARA SETUP 
  _unica vez_
